@@ -14,7 +14,7 @@ This project is all about committing to learning and practicing Python every day
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### How to Use This Repository
 
-Feel free to explore the repository:
+Please feel free to explore the repository and leave any feedback
 - Each day is documented in its own folder: DayX/.
 - Code for projects and exercises are included in respective folders.
 - Check the README in each folder for detailed explanations.
